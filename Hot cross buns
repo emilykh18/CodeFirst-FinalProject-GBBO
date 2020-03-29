@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <title> Season 10 Best Recipes </title>
+</head>
+<body style="background-color: aliceblue;">
+    <header>
+        <h1 style="text-align: center;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"> Welcome to the Season 10 Best Recipes page </h1>
+        <nav>
+            <!-- ref to home page-->
+        </nav>
+        <div>
+            <h3 style="text-align: center;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> <small>Here you can see some of the bakers' recipes and try them out yourself at home!</small> </h3>
+        </div>  
+    </header>
+    <div>
+        <h2 style="text-align: center;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"> <strong> Steph's Hot Cross Buns </strong> </h2>
+        <p style= "text-align:center;"><img src= "hot cross buns.png" alt="Steph's hot cross buns"></p>
+        <h4 style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> Ingredients </h4>
+        <p style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> <small> For the dough:</small> </p>
+        <ul style="font-family: monospace;">
+            <li>520ml whole milk</li>
+            <li>900g strong white bread flour</li>
+            <li>135g golden caster sugar</li>
+            <li>4tsp ground cinnamon</li>
+            <li>1.5tsp mixed spice</li>
+            <li>2tsp salt</li>
+            <li>20g dried yeast</li>
+            <li>2 eggs</li>
+            <li>100g unsalted butter</li>
+            <li>200g sultanas</li>
+            <li>80g dried cranberries</li>
+            <li>100g mixed peel</li>
+            <li>Zest of 2 oranges and 2 lemons</li>
+        </ul>
+        <p style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> <small> For the glaze:</small> </p>
+        <ul style="font-family: monospace;">
+            <li>35g caster sugar</li>
+            <li>1tbsp golden syrup</li>
+            <li>1 star anise</li>
+            <li>3 cloves</li>
+            <li>Half a cinnamon stick</li>
+            <li>Pinch of ground nutmeg</li>
+        </ul>
+        <p style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> <small> For the cross:</small> </p>
+        <ul style="font-family: monospace;">
+            <li>100g plain flour</li>
+            <li>Water</li>
+        </ul>
+        <p style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> <small> You will also need:</small> </p>
+        <ul style="font-family: monospace;">
+            <li>2 baking trays lined with baking paper</li>
+            <li>Piping bags</li>
+            <li>An electric food mixer (not essential, but definitely helps)</li>
+        </ul>
+    </div>
+    <h4 style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> Method </h4>
+    <ol type="1." style="font-family: 'Courier New', Courier, monospace;">
+        <li>Make the dough. Warm the milk in a small pan over a low heat until hand hot. Place the flour, sugar and spices in a stand mixer fitted with the dough hook. Sprinkle the salt on one side of the mixture in the bowl and the yeast on the other. Make a small well in the centre and pour in the milk and add the eggs.</li>
+        <li>With the mixer on medium speed, gradually add the softened butter and mix for about 5 minutes, until the dough is smooth and elastic. Add the dried fruit and the zests and mix for a further 3–5 minutes, then turn out the dough into a large bowl (it will be very sticky) and cover with cling film. Leave the dough to rise somewhere warm or in a proving drawer for about 1 hour, or until doubled in size.</li>
+        <li>Once the dough has risen, knock it back. Weigh it and divide it into 24 equal pieces (each will be about 80–85g). Cup your hand over the top of each piece in turn, pressing gently and rolling the piece on the work surface to form a neat bun. Place the buns on the baking trays, spacing them well apart. Place each tray inside a large plastic bag or cover with oiled cling film and leave to prove in a warm place or proving drawer for a further 45 minutes, or until doubled in size.</li>
+        <li>Meanwhile, prepare the glaze. Heat the sugar, glucose syrup and 2 tablespoons of water in a small pan over a low heat until the sugar has dissolved. Add the whole spices and the ground nutmeg, increase the heat and bring to the boil. Boil for about 3 minutes, until slightly syrupy, then remove from the heat and leave to cool in a bowl until needed.</li>
+        <li>When the buns have finished proving, heat the oven to 210°C/190°C fan/Gas 6-7. To make the crosses, mix the flour and 100ml of water in a small bowl to a smooth paste. Spoon the mixture into the piping bag and snip the end to make a small hole. Pipe a neat cross on the top of each bun.</li>
+        <li>Bake the buns in the oven for 18–20 minutes, or until golden brown. Remove from the oven, brush liberally with the sugar syrup, then place on a wire rack to cool before serving with the butter.</li>
+    </ol>
+</body>
+</html>
