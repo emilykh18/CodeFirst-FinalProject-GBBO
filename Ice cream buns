@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <title> Season 10 Best Recipes </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        {
+            box-sizing: border-box;
+        }
+    .column1{
+        float: left;
+        width: 50%;
+        height: 300px;
+    }
+    .column2{
+        float: right;
+        width:50%;
+        height: 300px;
+    }
+    .row:after{
+        content:"";
+        display: table;
+        clear: both;
+    }
+    </style>
+</head>
+<body style="background-color:aliceblue;">
+    <header>
+        <h1 style="text-align: center;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"> Welcome to the Season 10 Best Recipes page </h1>
+        <nav>
+            <!-- ref to home page-->
+        </nav>
+            <h3 style="text-align: center;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> <small>Here you can see some of the bakers' recipes and try them out yourself at home!</small> </h3>
+    </header>
+        <h2 style="text-align: center;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"> <strong> Alice's Orange and Cardamom Ice Cream Buns </strong> </h2>
+        <p style= "text-align:center;"><img src= "ice cream buns.jpg" alt="Alice's ice cream buns"></p>   
+        <div class="column1">
+        <h4 style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> Ingredients </h4>
+        <p style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> <small> For the dough:</small> </p>
+        <ul style="font-family: monospace;">
+            <li>250g strong white bread flour</li>
+            <li>25g caster sugar</li>
+            <li>20g unsalted butter</li>
+            <li>1tsp salt</li>
+            <li>7g dried yeast</li>
+            <li>1 large egg</li>
+            <li>2tsp ground cardamom</li>
+            <li>75ml whole milk</li>
+            <li>75ml warm water</li>
+            <li>Zest of 1 orange</li>
+        </ul>
+        <p style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> <small> For the icing:</small> </p>
+        <ul style="font-family: monospace;">
+            <li>100g full-fat cream cheese</li>
+            <li>100g unsalted butter</li>
+            <li>200g icing sugar</li>
+            <li>Zest of 1 orange</li>
+            <li>Pink food colouring paste</li>
+        </ul>
+        <p style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> <small> For the decoration:</small> </p>
+        <ul style="font-family: monospace;">
+            <li>Hundreds and thousands</li>
+        </ul>
+        <p style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> <small> You will also need:</small> </p>
+        <ul style="font-family: monospace;">
+            <li>8 100ml dariole moulds (approx. 6-7cm diameter)</li>
+            <li>A large piping bag with a 1cm round nozzle</li>
+            <li>An electric food mixer (not essential, but definitely helps)</li>
+        </ul>
+        </div>
+    <div class="row"> 
+        <div class="column2">
+    <h4 style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> Method </h4>
+    <ol type="1." style="font-family: 'Courier New', Courier, monospace;">
+        <li>Make the dough. Place the flour, sugar and butter in a stand mixer fitted with the dough hook and mix on a low speed, until the butter has been evenly rubbed in.</li>
+        <li>Add the yeast, orange zest, cardamom, egg and salt. In a small bowl, combine the milk and hand-hot water and add this to the mixture in the mixer. Knead on a low speed for 5 minutes, until you have a soft and sticky dough. Cover the bowl with cling film and leave to rise for 40 minutes, or until doubled in size.</li>
+        <li>Turn out the dough onto a clean work surface and knock it back. Divide it into 8 balls and place one in each greased dariole mould. Transfer to a baking tray and place inside a large plastic bag, making sure the bag doesn’t touch the dough. Leave in a warm place to prove for about 30 minutes, or until doubled in size. Heat the oven to 220°C/200°C fan/Gas 7.</li>
+        <li>Bake the proved buns for 15 minutes, or until golden brown and well risen. Remove from the moulds and leave to cool on a wire rack.</li>
+        <li>Make the icing. Beat the cream cheese and butter together in the bowl of a stand mixer fitted with the beater. Add the icing sugar, mixing slowly until combined. Add the orange zest and then the pink food colouring to create a bright pink shade.</li>
+        <li>Spoon the icing into the piping bag and, beginning at the outer edge of the top of each cake, pipe the icing in a spiral, working towards the centre, to resemble a swirl of ice cream. Sprinkle with hundreds and thousands to decorate.</li>
+    </ol>
+        </div> 
+    </div>
+</body>
+</html>
